@@ -1,0 +1,13 @@
+{
+  "name": "github-activity-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to fetch GitHub user activity",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": {
+    "github-activity": "./index.js"
+  }
+}
